@@ -1,0 +1,6 @@
+Mikrogramm pro Kubikmeter Luft | einstufung
+
+00-20  |  gruen
+20-30  |  gelb
+30-40  | orange
+40 <   |  rot
